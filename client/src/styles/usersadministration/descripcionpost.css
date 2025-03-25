@@ -1,0 +1,157 @@
+/* Variables globales */
+:root {
+    --primary-color: #4a90e2;
+    --bg-light: #f9f9f9;
+    --bg-white: #ffffff;
+    --shadow-light: rgba(0, 0, 0, 0.05);
+    --shadow-hover: rgba(0, 0, 0, 0.1);
+    --border-radius: 12px;
+    --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-size-lg: 1.7rem;
+    --font-size-md: 1.375rem;
+    --font-size-sm: 1rem;
+}
+
+/* Contenedor principal */
+.description-container {
+    font-family: var(--font-primary);
+    background-color: var(--bg-light);
+    border-radius: var(--border-radius);
+    padding: 0.5rem;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    width: 100%;
+    max-width: 1200px;
+    min-width: 200px;
+    margin: auto;
+}
+
+/* Soporte para textos RTL */
+.description-container.rtl {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Lista de información */
+.post-info {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 0.4rem;
+}
+
+/* Ítems de información */
+.info-item {
+    padding: 0.7rem;
+    background-color: var(--bg-white);
+    border-radius: 8px;
+    box-shadow: 0 2px 6px var(--shadow-light);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    will-change: transform;
+}
+.info-item .fas{
+    font-size: 18px;
+     
+}
+.info-item:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 4px var(--shadow-hover);
+}
+
+/* Íconos */
+.info-item i {
+    font-size: var(--font-size-lg);
+    color: var(--primary-color);
+    margin-right: 12px; /* Espacio entre el ícono y la etiqueta */
+}
+
+/* Textos */
+.info-label {
+    font-weight: 600;
+    color: rgb(2, 1, 1);
+    margin-right: 8px; /* Espacio entre la etiqueta y el valor */
+}
+
+.info-value {
+    font-weight: 400;
+    color: rgb(0, 0, 0);
+}
+
+/* Responsivo */
+.descriptiones-container {
+    max-width: 800px;
+    margin: 10px auto;
+    
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.infoitem-description {
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    gap: 10px;
+}
+
+.infoitem-description i {
+    color: rgb(1, 99, 245);
+    font-size: 18px;
+    margin-right: 12px; /* Espacio entre el ícono y la etiqueta */
+}
+
+.infolabel {
+    font-weight: bold;
+    color: rgb(3, 0, 51);
+    margin-right: 8px; /* Espacio entre la etiqueta y el valor */
+}
+
+.infovalue {
+    font-size: 16px;
+    color: rgb(0, 0, 0);
+    word-break: break-word;
+}
+
+.cardbodycontent {
+    display: inline-block;
+    font-size: 16px;
+    line-height: 1.5;
+    color: rgb(15, 15, 15);
+}
+
+.readMore {
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+.readMore.color-red {
+    color: #d9534f;
+}
+
+/* Responsivo */
+@media (max-width: 1024px) {
+    .post-info {
+        grid-template-columns: 1fr 1fr; /* Forzar dos columnas en tablets */
+    }
+}
+
+@media (max-width: 768px) {
+    .post-info {
+        grid-template-columns: 1fr; /* Una sola columna en móviles */
+    }
+}
+
+@media (max-width: 450px) {
+    .description-container {
+        padding: 0.5rem;
+    }
+    .info-item {
+        gap: 0.3rem;
+        padding: 0.4rem;
+    }
+    .info-item i,
+    .info-label,
+    .info-value {
+        font-size:1.2rem; /* Reducir tamaño de fuente en pantallas pequeñas */
+    }
+}

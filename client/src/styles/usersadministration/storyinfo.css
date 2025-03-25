@@ -1,0 +1,145 @@
+/* Contenedor principal */
+.business-profile {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Contenedor de tres columnas */
+.profile-columns {
+    display: flex;
+    gap: 20px;
+}
+
+/* Columna 1: Avatar */
+.profile-avatar-column {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+/* Columna 2: Información del usuario */
+.profile-info-column {
+    flex: 2;
+}
+
+.profile-username {
+    font-size: 2rem;
+    color: #2c3e50;
+    margin-bottom: 5px;
+}
+
+.profile-business-name {
+    font-size: 1.2rem;
+    color: #7f8c8d;
+    margin-bottom: 10px;
+}
+
+.profile-stats {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 15px;
+}
+
+.followers-link, .following-link {
+    color: #3498db;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.followers-link:hover, .following-link:hover {
+    color: #2980b9;
+}
+
+.profile-actions {
+    margin-bottom: 15px;
+}
+
+.btn-edit-profile {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.btn-edit-profile:hover {
+    background-color: #2980b9;
+}
+
+/* Columna 3: Detalles del negocio */
+.profile-details-column {
+    flex: 2;
+}
+
+.profile-description {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+.profile-contact {
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.profile-contact h5 {
+    font-size: 1rem;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.profile-contact p {
+    margin: 5px 0;
+}
+
+.profile-website {
+    color: #3498db;
+    text-decoration: none;
+    display: block;
+    margin: 5px 0;
+}
+
+.profile-website:hover {
+    text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .profile-columns {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .profile-avatar-column {
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+
+    .profile-info-column, .profile-details-column {
+        text-align: center;
+    }
+
+    .profile-stats {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-username {
+        font-size: 1.5rem;
+    }
+
+    .profile-business-name {
+        font-size: 1rem;
+    }
+}

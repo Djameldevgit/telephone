@@ -1,0 +1,575 @@
+[
+    {
+      "marca": "Samsung",
+      "modelo": [
+        "Galaxy S1", "Galaxy S2", "Galaxy S3", "Galaxy S4", "Galaxy S5", "Galaxy S6", 
+        "Galaxy S7", "Galaxy S8", "Galaxy S9", "Galaxy S10", "Galaxy S20", "Galaxy S21", 
+        "Galaxy S22", "Galaxy S23", "Galaxy Z Flip", "Galaxy Z Fold", "Galaxy A10", 
+        "Galaxy A50", "Galaxy A71", "Galaxy M51"
+      ]
+    },
+    {
+      "marca": "Motorola",
+      "modelo": [
+        "Moto G", "Moto G2", "Moto G3", "Moto G4", "Moto G5", "Moto G6", 
+        "Moto G7", "Moto G8", "Moto G9", "Moto G100", "Moto E", "Moto X", 
+        "Moto Z", "Moto Z2", "Moto Z3"
+      ]
+    },
+    {
+      "marca": "LG",
+      "modelo": [
+        "LG G2", "LG G3", "LG G4", "LG G5", "LG G6", "LG G7", 
+        "LG G8", "LG V10", "LG V20", "LG V30", "LG V40", "LG V50"
+      ]
+    },
+    {
+      "marca": "Huawei",
+      "modelo": [
+        "P8", "P9", "P10", "P20", "P30", "P40", "P50", 
+        "Mate 7", "Mate 8", "Mate 9", "Mate 10", "Mate 20", "Mate 30", "Mate 40", 
+        "Nova", "Nova 2", "Nova 3", "Nova 6"
+      ]
+    },
+    {
+      "marca": "Xiaomi",
+      "modelo": [
+        "Mi 1", "Mi 2", "Mi 3", "Mi 4", "Mi 5", "Mi 6", "Mi 8", 
+        "Mi 10", "Mi 11", "Mi 12", "Redmi 1", "Redmi 2", "Redmi 3", "Redmi 4", 
+        "Redmi 5", "Redmi Note 8", "Redmi Note 9", "Redmi Note 10", "Poco F1", "Poco X3"
+      ]
+    },
+    {
+      "marca": "Nokia",
+      "modelo": [
+        "Lumia 520", "Lumia 920", "Lumia 1020", "Lumia 1520", "Nokia 6", 
+        "Nokia 7", "Nokia 8", "Nokia 9", "Nokia 1", "Nokia 2", "Nokia 3", "Nokia 4", 
+        "Nokia 5", "Nokia 6", "Nokia 7.1"
+      ]
+    },
+    {
+      "marca": "Sony",
+      "modelo": [
+        "Xperia Z", "Xperia Z1", "Xperia Z2", "Xperia Z3", "Xperia Z5", 
+        "Xperia X", "Xperia XZ", "Xperia XZ2", "Xperia XZ3", "Xperia 1", 
+        "Xperia 5", "Xperia 10", "Xperia 10 II", "Xperia 10 III"
+      ]
+    },
+    {
+      "marca": "Apple",
+      "modelo": [
+        "iPhone 2G", "iPhone 3G", "iPhone 3GS", "iPhone 4", "iPhone 4S", 
+        "iPhone 5", "iPhone 5S", "iPhone 6", "iPhone 6 Plus", "iPhone 6S", 
+        "iPhone 7", "iPhone 7 Plus", "iPhone 8", "iPhone 8 Plus", "iPhone X", 
+        "iPhone XR", "iPhone XS", "iPhone XS Max", "iPhone 11", "iPhone 11 Pro", 
+        "iPhone 12", "iPhone 12 Mini", "iPhone 12 Pro", "iPhone 12 Pro Max", 
+        "iPhone 13", "iPhone 13 Mini", "iPhone 13 Pro", "iPhone 13 Pro Max", 
+        "iPhone 14", "iPhone 14 Plus", "iPhone 14 Pro", "iPhone 14 Pro Max", 
+        "iPhone 15", "iPhone 15 Plus", "iPhone 15 Pro", "iPhone 15 Pro Max"
+      ]
+    },
+    {
+      "marca": "BlackBerry",
+      "modelo": [
+        "Bold 9000", "Bold 9700", "Bold 9900", "Curve 8520", "Curve 9300", 
+        "Curve 9360", "Z10", "Z30", "KEYone", "KEY2"
+      ]
+    },
+    {
+      "marca": "HTC",
+      "modelo": [
+        "HTC One M7", "HTC One M8", "HTC One M9", "HTC One M10", "HTC One M11", 
+        "Desire 510", "Desire 620", "Desire 630", "Desire 830", "U Ultra", 
+        "U11", "U12+"
+      ]
+    },
+    {
+      "marca": "Oppo",
+      "modelo": [
+        "Oppo Find 7", "Oppo Find X", "Oppo Reno", "Oppo Reno 2", "Oppo Reno 3", 
+        "Oppo Reno 4", "Oppo Reno 5", "Oppo A5", "Oppo A9", "Oppo F19"
+      ]
+    },
+    {
+      "marca": "OnePlus",
+      "modelo": [
+        "OnePlus One", "OnePlus 2", "OnePlus 3", "OnePlus 5", "OnePlus 6", 
+        "OnePlus 7", "OnePlus 8", "OnePlus 9", "OnePlus 10", "OnePlus 11"
+      ]
+    },
+    {
+      "marca": "Asus",
+      "modelo": [
+        "ZenFone 2", "ZenFone 3", "ZenFone 5", "ZenFone 6", "ZenFone 7", "ZenFone 8"
+      ]
+    },
+    {
+      "marca": "Google",
+      "modelo": [
+        "Pixel", "Pixel 2", "Pixel 3", "Pixel 4", "Pixel 5", 
+        "Pixel 6", "Pixel 7", "Pixel 8"
+      ]
+    },
+    {
+      "marca": "Alcatel",
+      "modelo": [
+        "Alcatel 1", "Alcatel 3", "Alcatel 5", "Alcatel 7", "Alcatel Idol 3", 
+        "Alcatel Idol 4", "Alcatel Idol 5"
+      ]
+    },
+    {
+      "marca": "Huawei",
+      "modelo": [
+        "P8", "P9", "P10", "P20", "P30", "P40", "P50", 
+        "Mate 7", "Mate 8", "Mate 9", "Mate 10", "Mate 20", "Mate 30", "Mate 40", 
+        "Nova", "Nova 2", "Nova 3", "Nova 6"
+      ]
+    },
+    {
+      "marca": "Lenovo",
+      "modelo": [
+        "Lenovo Zuk Z1", "Lenovo Zuk Z2", "Lenovo Moto Z", "Lenovo Moto G", 
+        "Lenovo Moto E", "Lenovo Vibe"
+      ]
+    },
+    {
+      "marca": "Meizu",
+      "modelo": [
+        "Meizu M2", "Meizu M3", "Meizu M6", "Meizu M8", "Meizu Pro 6", 
+        "Meizu 16", "Meizu 17"
+      ]
+    },
+    {
+      "marca": "Nokia",
+      "modelo": [
+        "Lumia 520", "Lumia 920", "Lumia 1020", "Lumia 1520", "Nokia 6", 
+        "Nokia 7", "Nokia 8", "Nokia 9", "Nokia 1", "Nokia 2", "Nokia 3", "Nokia 4", 
+        "Nokia 5", "Nokia 6", "Nokia 7.1"
+      ]
+    },
+    {
+      "marca": "Alcatel",
+      "modelo": [
+        "Alcatel 1", "Alcatel 3", "Alcatel 5", "Alcatel 7", "Alcatel Idol 3", 
+        "Alcatel Idol 4", "Alcatel Idol 5"
+      ]
+    },
+    {
+      "marca": "BlackBerry",
+      "modelo": [
+        "Bold 9000", "Bold 9700", "Bold 9900", "Curve 8520", "Curve 9300", 
+        "Curve 9360", "Z10", "Z30", "KEYone", "KEY2"
+      ]
+    },
+    {
+      "marca": "BLU",
+      "modelo": [
+        "Life One", "Life Play", "Life Max", "Blu G9", "Blu G60", "Blu Vivo XL"
+      ]
+    },
+    {
+      "marca": "ZTE",
+      "modelo": [
+        "ZTE Axon 7", "ZTE Axon 9", "ZTE Blade V7", "ZTE Blade A3", 
+        "ZTE Blade V8", "ZTE Nubia Z11", "ZTE Blade A5"
+      ]
+    },
+    {
+      "marca": "Oppo",
+      "modelo": [
+        "Oppo Find X", "Oppo Reno", "Oppo Reno 2", "Oppo Reno 3", 
+        "Oppo Reno 4", "Oppo Reno 5", "Oppo A9", "Oppo A5", "Oppo F19"
+      ]
+    },
+    {
+      "marca": "Honor",
+      "modelo": [
+        "Honor 6", "Honor 7", "Honor 8", "Honor 9", "Honor 10", 
+        "Honor 20", "Honor 30", "Honor 50", "Honor 60"
+      ]
+    },
+    {
+      "marca": "Lenovo",
+      "modelo": [
+        "Lenovo Zuk Z1", "Lenovo Zuk Z2", "Lenovo K8", "Lenovo Moto Z", 
+        "Lenovo Moto G", "Lenovo Moto E", "Lenovo Vibe", "Lenovo Legion"
+      ]
+    },
+    {
+      "marca": "OnePlus",
+      "modelo": [
+        "OnePlus One", "OnePlus 2", "OnePlus 3", "OnePlus 5", "OnePlus 6", 
+        "OnePlus 7", "OnePlus 8", "OnePlus 9", "OnePlus 10", "OnePlus 11"
+      ]
+    },
+    {
+      "marca": "Microsoft",
+      "modelo": [
+        "Lumia 520", "Lumia 550", "Lumia 650", "Lumia 950", "Lumia 950 XL"
+      ]
+    },
+    {
+      "marca": "Asus",
+      "modelo": [
+        "ZenFone 2", "ZenFone 3", "ZenFone 4", "ZenFone 5", "ZenFone 6", 
+        "ZenFone 7", "ZenFone 8", "ZenFone 9"
+      ]
+    },
+    {
+      "marca": "Acer",
+      "modelo": [
+        "Acer Liquid S1", "Acer Liquid E3", "Acer Liquid Z6", "Acer Liquid Jade"
+      ]
+    },
+    {
+      "marca": "Lanix",
+      "modelo": [
+        "Ilium L1000", "Ilium L600", "Ilium S500", "Lanix Ilium S7"
+      ]
+    },
+    {
+      "marca": "Google",
+      "modelo": [
+        "Pixel", "Pixel 2", "Pixel 3", "Pixel 4", "Pixel 5", 
+        "Pixel 6", "Pixel 7", "Pixel 8"
+      ]
+    },
+    {
+      "marca": "TCL",
+      "modelo": [
+        "TCL 10 Pro", "TCL 20 Pro", "TCL 20 5G", "TCL 10L", "TCL Plex"
+      ]
+    },
+    {
+      "marca": "Vodafone",
+      "modelo": [
+        "Vodafone Smart 7", "Vodafone Smart V8", "Vodafone Smart X9"
+      ]
+    },
+    {
+      "marca": "Hyundai",
+      "modelo": [
+        "Hyundai T7", "Hyundai T9"
+      ]
+    },
+    {
+      "marca": "Azumi",
+      "modelo": [
+        "Azumi A7", "Azumi M5", "Azumi A6"
+      ]
+    },
+    {
+      "marca": "Verykool",
+      "modelo": [
+        "Verykool S5021", "Verykool S5022", "Verykool S5040"
+      ]
+    },
+    {
+      "marca": "HP",
+      "modelo": [
+        "HP Elite x3"
+      ]
+    },
+    {
+      "marca": "BGH",
+      "modelo": [
+        "BGH Acteck Touch", "BGH Acteck Dual"
+      ]
+    },
+    {
+      "marca": "Pantech",
+      "modelo": [
+        "Pantech Vega", "Pantech IM-S450", "Pantech P9100"
+      ]
+    },
+    {
+      "marca": "Dell",
+      "modelo": [
+        "Dell Venue 8", "Dell Venue 7"
+      ]
+    },
+    {
+      "marca": "Cat",
+      "modelo": [
+        "Cat S40", "Cat S60", "Cat S61", "Cat S62"
+      ]
+    },
+    {
+      "marca": "Philips",
+      "modelo": [
+        "Philips Xenium", "Philips W832"
+      ]
+    },
+    {
+      "marca": "Meizu",
+      "modelo": [
+        "Meizu M2", "Meizu M3", "Meizu M6", "Meizu Pro 6", "Meizu 16", "Meizu 17"
+      ]
+    },
+    {
+      "marca": "Palm",
+      "modelo": [
+        "Palm Pre", "Palm Treo", "Palm Pixi"
+      ]
+    },
+    {
+      "marca": "Yezz",
+      "modelo": [
+        "Yezz Andy A5", "Yezz Max"
+      ]
+    },
+    {
+      "marca": "Vivo",
+      "modelo": [
+        "Vivo X1", "Vivo X20", "Vivo X50", "Vivo X60", "Vivo V15", "Vivo V21", "Vivo V27"
+      ]
+    },
+    {
+      "marca": "Amazon",
+      "modelo": [
+        "Amazon Fire Phone"
+      ]
+    },
+    {
+      "marca": "Siemens",
+      "modelo": [
+        "Siemens SL45", "Siemens S35", "Siemens C35"
+      ]
+    },
+    {
+      "marca": "Movistar",
+      "modelo": [
+        "Movistar Smart 4", "Movistar Smart 5"
+      ]
+    },
+    {
+      "marca": "bq",
+      "modelo": [
+        "bq Aquaris E4", "bq Aquaris X5", "bq Aquaris U"
+      ]
+    },
+    {
+      "marca": "Panasonic",
+      "modelo": [
+        "Panasonic Eluga", "Panasonic P81"
+      ]
+    },
+    {
+      "marca": "Sagem",
+      "modelo": [
+        "Sagem MYX-5", "Sagem MW302", "Sagem PUMA"
+      ]
+    },
+    {
+      "marca": "Sharp",
+      "modelo": [
+        "Sharp Aquos Crystal", "Sharp Z3"
+      ]
+    },
+    {
+      "marca": "Cect",
+      "modelo": [
+        "Cect T200", "Cect W200"
+      ]
+    },
+    {
+      "marca": "NEC",
+      "modelo": [
+        "NEC N900i", "NEC N503i"
+      ]
+    },
+    {
+      "marca": "Toshiba",
+      "modelo": [
+        "Toshiba TG01", "Toshiba TG02"
+      ]
+    },
+    {
+      "marca": "Qtek",
+      "modelo": [
+        "Qtek 9000", "Qtek 9100"
+      ]
+    },
+    {
+      "marca": "Vertu",
+      "modelo": [
+        "Vertu Constellation", "Vertu Signature"
+      ]
+    },
+    {
+      "marca": "Haier",
+      "modelo": [
+        "Haier W920"
+      ]
+    },
+    {
+      "marca": "Skyzen",
+      "modelo": [
+        "Skyzen 902"
+      ]
+    },
+    {
+      "marca": "Eten",
+      "modelo": [
+        "Eten G500", "Eten G600"
+      ]
+    },
+    {
+      "marca": "BenQ",
+      "modelo": [
+        "BenQ S800", "BenQ F5"
+      ]
+    },
+    {
+      "marca": "O2",
+      "modelo": [
+        "O2 XDA", "O2 XDA II"
+      ]
+    },
+    {
+      "marca": "Gigabyte",
+     
+          "modelo": [
+            "Gigabyte GSmart G1315", "Gigabyte GSmart S1200", "Gigabyte GSmart Maya M1"
+          ]
+        },
+        {
+          "marca": "BenQ Siemens",
+          "modelo": [
+            "BenQ Siemens C75", "BenQ Siemens S88"
+          ]
+        },
+        {
+          "marca": "Amoi",
+          "modelo": [
+            "Amoi N820", "Amoi A920"
+          ]
+        },
+        {
+          "marca": "Quantum",
+          "modelo": [
+            "Quantum Q2", "Quantum Q7"
+          ]
+        },
+        {
+          "marca": "Bird",
+          "modelo": [
+            "Bird B100", "Bird B300"
+          ]
+        },
+        {
+          "marca": "Gradiente",
+          "modelo": [
+            "Gradiente GX1", "Gradiente GX2"
+          ]
+        },
+        {
+          "marca": "Nothing",
+          "modelo": [
+            "Nothing Phone (1)", "Nothing Phone (2)"
+          ]
+        },
+        {
+          "marca": "Anycool",
+          "modelo": [
+            "Anycool T1", "Anycool T8"
+          ]
+        },
+        {
+          "marca": "LeEco",
+          "modelo": [
+            "LeEco Le 2", "LeEco Le Max 2"
+          ]
+        },
+        {
+          "marca": "Wiko",
+          "modelo": [
+            "Wiko Rainbow", "Wiko Ufeel", "Wiko View"
+          ]
+        },
+        {
+          "marca": "Geeksphone",
+          "modelo": [
+            "Geeksphone Revolution", "Geeksphone Keon"
+          ]
+        },
+        {
+          "marca": "Modu",
+          "modelo": [
+            "Modu T", "Modu Mini"
+          ]
+        },
+        {
+          "marca": "iNQ",
+          "modelo": [
+            "iNQ Chat 3G", "iNQ Cloud Touch"
+          ]
+        },
+        {
+          "marca": "Telit",
+          "modelo": [
+            "Telit GSM/EDGE", "Telit CDMA"
+          ]
+        },
+        {
+          "marca": "AEG",
+          "modelo": [
+            "AEG K630", "AEG E600"
+          ]
+        },
+        {
+          "marca": "Suzuki",
+          "modelo": [
+            "Suzuki Phone"
+          ]
+        },
+        {
+          "marca": "Obi Worldphone",
+          "modelo": [
+            "Obi Worldphone SF1", "Obi Worldphone SJ1.5"
+          ]
+        },
+        {
+          "marca": "Airam",
+          "modelo": [
+            "Airam S1"
+          ]
+        },
+        {
+          "marca": "Coolpad",
+          "modelo": [
+            "Coolpad Note 3", "Coolpad Cool 1", "Coolpad Legacy"
+          ]
+        },
+        {
+          "marca": "Tecno",
+          "modelo": [
+            "Tecno Camon", "Tecno Spark", "Tecno Phantom"
+          ]
+        },
+        {
+          "marca": "Jolla",
+          "modelo": [
+            "Jolla Phone"
+          ]
+        },
+        {
+          "marca": "General Mobile",
+          "modelo": [
+            "General Mobile GM5", "General Mobile GM9", "General Mobile GM20"
+          ]
+        },
+        {
+          "marca": "ViewSonic",
+          "modelo": [
+            "ViewSonic V55"
+          ]
+        },
+        {
+          "marca": "HMD",
+          "modelo": [
+            "Nokia 6.1", "Nokia 7.2", "Nokia 8.3"
+          ]
+        }
+      ]
+      
